@@ -25,11 +25,11 @@ To build a strong understanding of Cardano’s development environment and gain 
 
 
   ## Learning Roadmap
-- 1: Setup and Cardano fundamentals
-- 2: Haskell basics and Plutus introduction
-- 3: Writing simple contracts in Aiken
-- 4: Exploring Marlowe for financial contracts
-- 5: Wallet interaction and off-chain logic
-- 6: Final project – publish a working smart contract
+- Milestone 1: Setup and Cardano fundamentals
+- Milestone 2: Haskell basics and Plutus introduction
+- Milestone 3: Writing simple contracts in Aiken
+- Milestone 4: Exploring Marlowe for financial contracts
+- Milestone 5: Wallet interaction and off-chain logic
+- Milestone 6: Final project – publish a working smart contract
 
 
