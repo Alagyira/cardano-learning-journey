@@ -15,5 +15,7 @@
 - [x] Verified installations successfully  
 - [x] Created GitHub repository and README with roadmap  
 
+<img width="1031" height="719" alt="image" src="https://github.com/user-attachments/assets/ed9099a3-b72d-437a-b422-4e1bf771b709" />
+
 
 
