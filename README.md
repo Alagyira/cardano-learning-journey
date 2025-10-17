@@ -1,21 +1,33 @@
-# Cardano Learning Journey 
+# Cardano Learning Journey  
+**By Benjamin Alagyira**
 
-Welcome! This repository documents my progress in learning to develop on the Cardano blockchain.  
-Over the next six weeks, I’ll be studying **Plutus**, **Aiken**, **Haskell**, and **Marlowe**, building small projects that show my understanding.
+Welcome to my Cardano developer learning journey!  
+This repository documents my hands-on exploration into **Cardano blockchain development** — learning and building with **Plutus**, **Aiken**, **Haskell**, and **Marlowe**.  
 
-###  Learning Roadmap
-- Week 1: Setup and Cardano fundamentals
-- Week 2: Haskell basics and Plutus introduction
-- Week 3: Writing simple contracts in Aiken
-- Week 4: Exploring Marlowe for financial contracts
-- Week 5: Wallet interaction and off-chain logic
-- Week 6: Final project – publish a working smart contract
+
+## Objective  
+To build a strong understanding of Cardano’s development environment and gain hands-on experience with some development languages
 
 ###  Goals
+-Understand how smart contracts work
 - Understand Cardano’s EUTXO model  
 - Build and deploy small test contracts  
 - Maintain active commits on GitHub  
-- Demonstrate skills relevant to Project Catalyst technical roles
+-
+  
+### Tools & Languages
+- **Plutus / Haskell** – Core Cardano smart contract logic  
+- **Aiken** – Lightweight language for writing and testing smart contracts  
+- **Marlowe** – No-code/low-code contracts for financial use cases  
+- **Git & GitHub** – Version control and public documentation  
+- **Node.js (optional)** – Off-chain and wallet interaction  
 
----
+  ###  Learning Roadmap
+- 1: Setup and Cardano fundamentals
+- 2: Haskell basics and Plutus introduction
+- 3: Writing simple contracts in Aiken
+- 4: Exploring Marlowe for financial contracts
+- 5: Wallet interaction and off-chain logic
+- 6: Final project – publish a working smart contract
+
 
